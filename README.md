@@ -1,5 +1,5 @@
-# Gaussian Process Meta-Learning for Few-shot Regression
-The source code for the paper: Gaussian Process Meta-Learning for Few-shot Regression
+# Learning to Learning with Gaussian Processes
+This is the source code for the paper: Learning to Learning with Gaussian Processes, published at UAI 2021.
 
 
 ## Getting Started
