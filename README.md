@@ -1,6 +1,7 @@
 # Learning to Learning with Gaussian Processes
 This is the source code for the paper: Learning to Learning with Gaussian Processes, published at UAI 2021.
 
+![gpml-animation](https://github.com/qphong/gpml/blob/master/gpml.gif)
 
 ## Getting Started
 
